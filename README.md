@@ -1,4 +1,4 @@
-# hf-codecomplete-server
+# hf-codecomplete-server - Starcoder2 support
 
 Under progress:
     starcoder2 awq
